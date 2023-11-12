@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @surendrapatel99
-- 👀 I’m interested in web devlopement
-- 🌱 I’m currently learning PHP, JavaScript, Python
+- 👋 Hi, I’m Surendra Patel
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
